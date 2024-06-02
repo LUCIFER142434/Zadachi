@@ -44,3 +44,10 @@
 # print(num2)
 # print(num1)
 # print(num1+num2+num3)
+#9
+# pas = int(input("Parol : "))
+# pas1 = int(input("Parol povtor : "))
+# if pas == pas1:
+#     print("Ok")
+# else:
+#     print("Idi doleko")
