@@ -51,3 +51,19 @@
 #     print("Ok")
 # else:
 #     print("Idi doleko")
+#11
+num1 = int(input("Number1 : "))
+num2 = int(input("Number2 : "))
+dey = input("deystvie : ")
+if num2 == 0 and dey == "/":
+    print("На 0 делить нельзя")
+elif dey == "-":
+    print(num1 - num2)
+elif dey == "+":
+    print(num1 + num2)
+elif dey == "*":
+    print(num1 * num2)
+elif dey == "/":
+    print(num1 / num2)
+else:
+    print("Нет такого действия")
