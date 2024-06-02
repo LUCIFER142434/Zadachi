@@ -23,3 +23,8 @@
 # fname = input("Fname : ")
 # age = int(input("Age : "))
 # print(f"Привет {fname} {name} {age}")
+#6
+# num1 = int(input("Number1 : "))
+# num2 = int(input("Number2 : "))
+# num3 = int(input("Number3 : "))
+# print(f"{num1} - {num2} * {num3} = {num1 - num2 * num3}")
