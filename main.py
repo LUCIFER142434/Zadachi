@@ -12,3 +12,9 @@
 # d = 90.2
 # z = {67}
 # print(c)
+#4
+# a = input("Number : ")
+# b = []
+# for i in a:
+#     b += i
+# print(b)
