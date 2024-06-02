@@ -28,3 +28,11 @@
 # num2 = int(input("Number2 : "))
 # num3 = int(input("Number3 : "))
 # print(f"{num1} - {num2} * {num3} = {num1 - num2 * num3}")
+#7
+# num1 = int(input("Number1 : "))
+# num2 = float(input("Number2 : "))
+# num3 = input("Number3 : ")
+# num1 = int(num1)
+# num2 = int(num2)
+# num3 = int(num3)
+# print(num1 * num2 * num3)
