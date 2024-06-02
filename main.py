@@ -18,3 +18,8 @@
 # for i in a:
 #     b += i
 # print(b)
+#5
+# name = input("Name : ")
+# fname = input("Fname : ")
+# age = int(input("Age : "))
+# print(f"Привет {fname} {name} {age}")
